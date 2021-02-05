@@ -12,7 +12,6 @@ public class ArrayListFunHouse
 {
  public static ArrayList<Integer> getListOfFactors(int number)
  {
-  return null;
  }
  
  public static void keepOnlyCompositeNumbers( List<Integer> nums )
